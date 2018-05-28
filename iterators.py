@@ -1,4 +1,4 @@
-# File: Iterators_in_Python.py
+# File: iterators.py
 # Description: Examples on how to use iterators in Python
 # Environment: PyCharm and Anaconda environment
 #
